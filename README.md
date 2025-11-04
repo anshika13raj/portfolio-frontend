@@ -1,76 +1,74 @@
-🪴 Anshika Raj — Personal Portfolio Website
-🌐 Live Demo  https://portfolio-frontend-kaqo.onrender.com
+<div align="center">
 
-👉 Visit Portfolio
+# 🌐 Anshika Raj — Portfolio Website
 
-🧠 About the Project
+[![GitHub last commit](https://img.shields.io/github/last-commit/anshika13raj/portfolio-frontend?color=blue&style=flat-square)](https://github.com/anshika13raj/portfolio-frontend)
+[![GitHub stars](https://img.shields.io/github/stars/anshika13raj/portfolio-frontend?color=yellow&style=flat-square)](https://github.com/anshika13raj/portfolio-frontend/stargazers)
+[![Status](https://img.shields.io/badge/Status-Live-green?style=flat-square)](#)
+[![Made with](https://img.shields.io/badge/Made%20With-HTML%20%7C%20CSS%20%7C%20JS-orange?style=flat-square)](#)
 
-A modern and interactive portfolio website built to showcase my projects, technical skills, and professional journey.
-It features a sleek dark/light mode, smooth animations, and responsive design optimized for both desktop and mobile screens.
+🎨 A responsive, interactive portfolio website built to showcase my projects, skills, and achievements — featuring elegant UI, smooth animations, and dark/light mode toggle.
 
-This website serves as a one-stop destination to explore my work across Web Development, Artificial Intelligence, and Data Science.
+</div>
 
-✨ Features
+---
 
-🎨 Modern UI/UX — Elegant layout with subtle hover effects and animated transitions
+## 🖥️ **Live Preview**
 
-🌗 Dark & Light Mode Toggle — Instantly switch between dark and light themes
+> 🔗 [Visit My Portfolio](https://portfolio-frontend-kaqo.onrender.com/)  
+> *(Deployed on Render/GitHub Pages — best viewed on desktop or mobile)*
 
-💻 Responsive Design — Fully optimized for all devices
+---
 
-⚡ Project Gallery — Displays 5+ projects with live previews and GitHub links
+## 🪶 **About**
 
-📞 Interactive Contact Form — Clean and functional design
+This project highlights my work across **Web Development**, **AI**, and **Data Science** — built with a focus on design simplicity, responsiveness, and storytelling.  
+Every section (About, Projects, Contact) is modular and built inside reusable **containers**, ensuring clean layout and smooth navigation.
 
-💬 Social Media Integration — Quick links to GitHub, LinkedIn, and Email
+---
 
-🧩 Tech Stack
-Category	Technologies
-🌐 Frontend	HTML5, CSS3, JavaScript
-🎨 Styling	Custom CSS (no framework), Font Awesome Icons
-⚙️ Tools	VS Code, Git, GitHub
-🚀 Hosting	GitHub Pages / Render
-🧱 Project Sections
+## ⚙️ **Tech Stack**
 
-🗣️ Speech Emotion Detection (LSTM) — Deep Learning model using MFCCs
+| Category | Technologies |
+|-----------|---------------|
+| 🧱 Frontend | HTML5, CSS3, JavaScript |
+| 🎨 Styling | Custom CSS, Font Awesome |
+| 🧩 Tools | VS Code, Git, GitHub |
+| ☁️ Deployment | Render / GitHub Pages |
 
-🧠 Speech Emotion Detection (GRU) — Sequential model for emotion classification
+---
 
-🔍 RAG Chat Engine — AI-powered document search and chat system
+## 🚀 **Features**
 
-📊 Healthcare Dashboard — Power BI-based interactive analytics
+🕶️ **Dark / Light Mode Toggle**  
+🎨 **Modern Animated Layout**  
+📱 **Responsive Design for All Devices**  
+🧠 **Project Showcase Grid with Hover Effects**  
+📬 **Contact Form with Social Media Links**  
+⚡ **Optimized for Performance and Readability**
 
-👁️ Wink and Shush Detection (OpenCV) — Real-time gesture detection using computer vision
-	
-⚙️ Setup & Run Locally
+---
 
-Clone this repository
+## 💼 **Project Showcase**
 
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🗣️ **Speech Emotion Detection (LSTM)** | Detects emotions from voice using MFCCs and deep learning. | TensorFlow, Python |
+| 🧠 **Speech Emotion Detection (GRU)** | GRU-based model for emotion recognition from speech. | TensorFlow, Python |
+| 🤖 **RAG Chat Engine** | Retrieval-augmented chatbot that answers from uploaded documents. | Node.js, React, Gemini API |
+| 📊 **Healthcare Power BI Dashboard** | Interactive Power BI dashboard analyzing 10K+ records. | Power BI, Excel |
+| 👁️ **Wink & Shush Detection** | Real-time gesture detection using OpenCV. | Python, OpenCV |
+
+---
+
+## 🧭 **Quick Start**
+
+```bash
+# Clone this repository
 git clone https://github.com/anshika13raj/portfolio-frontend.git
 
-
-Navigate into the project
-
+# Open the folder
 cd portfolio-frontend
 
-
-Open in browser
-
+# Launch in your browser
 open index.html
-
-
-or simply drag and drop the file into your browser.
-
-🧭 Future Enhancements
-
-Add animations using Framer Motion or GSAP
-
-Integrate an email service (like EmailJS) for live form submission
-
-Include a blog section or timeline for achievements
-
-Add backend support for analytics or visitor tracking
-
-🪄 Author
-
-👩‍💻 Anshika Raj
