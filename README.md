@@ -94,12 +94,4 @@ portfolio-frontend/
 
 👩‍💻 Author
 Anshika Raj
-💻 Computer Science Engineer | AI & Web Development Enthusiast
-📍 India
-
-🔗 LinkedIn • GitHub • Email
-
-
-💫 If you like this project, don’t forget to star ⭐ the repo and connect on LinkedIn!
-Made with ❤️ by Anshika Raj
 
