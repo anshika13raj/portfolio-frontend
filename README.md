@@ -99,8 +99,7 @@ Anshika Raj
 
 🔗 LinkedIn • GitHub • Email
 
-<div align="center">
+
 💫 If you like this project, don’t forget to star ⭐ the repo and connect on LinkedIn!
 Made with ❤️ by Anshika Raj
 
-</div> ```
